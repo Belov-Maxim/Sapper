@@ -1,0 +1,1 @@
+Запускать main.exe или main.py
